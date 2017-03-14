@@ -1,0 +1,9 @@
+c:\users\grisha\documents\visual studio 2015\Projects\number_2\number_2\bin\Debug\number_2.exe.config
+c:\users\grisha\documents\visual studio 2015\Projects\number_2\number_2\obj\Debug\number_2.csprojResolveAssemblyReference.cache
+c:\users\grisha\documents\visual studio 2015\Projects\number_2\number_2\obj\Debug\number_2.Properties.Resources.resources
+c:\users\grisha\documents\visual studio 2015\Projects\number_2\number_2\obj\Debug\number_2.csproj.GenerateResource.Cache
+c:\users\grisha\documents\visual studio 2015\Projects\number_2\number_2\bin\Debug\number_2.exe
+c:\users\grisha\documents\visual studio 2015\Projects\number_2\number_2\bin\Debug\number_2.pdb
+c:\users\grisha\documents\visual studio 2015\Projects\number_2\number_2\obj\Debug\number_2.exe
+c:\users\grisha\documents\visual studio 2015\Projects\number_2\number_2\obj\Debug\number_2.pdb
+c:\users\grisha\documents\visual studio 2015\Projects\number_2\number_2\obj\Debug\number_2.Калькулятор.resources

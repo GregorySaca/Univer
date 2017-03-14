@@ -1,0 +1,9 @@
+C:\Users\Grisha\Source\Repos\University\number1\number1\bin\Debug\number1.exe.config
+C:\Users\Grisha\Source\Repos\University\number1\number1\bin\Debug\number1.exe
+C:\Users\Grisha\Source\Repos\University\number1\number1\bin\Debug\number1.pdb
+C:\Users\Grisha\Source\Repos\University\number1\number1\obj\Debug\number1.csprojResolveAssemblyReference.cache
+C:\Users\Grisha\Source\Repos\University\number1\number1\obj\Debug\number1.Form1.resources
+C:\Users\Grisha\Source\Repos\University\number1\number1\obj\Debug\number1.Properties.Resources.resources
+C:\Users\Grisha\Source\Repos\University\number1\number1\obj\Debug\number1.csproj.GenerateResource.Cache
+C:\Users\Grisha\Source\Repos\University\number1\number1\obj\Debug\number1.exe
+C:\Users\Grisha\Source\Repos\University\number1\number1\obj\Debug\number1.pdb

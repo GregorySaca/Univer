@@ -1,0 +1,8 @@
+c:\users\grisha\documents\visual studio 2015\Projects\number_3\number_3\bin\Debug\number_3.exe.config
+c:\users\grisha\documents\visual studio 2015\Projects\number_3\number_3\bin\Debug\number_3.exe
+c:\users\grisha\documents\visual studio 2015\Projects\number_3\number_3\bin\Debug\number_3.pdb
+c:\users\grisha\documents\visual studio 2015\Projects\number_3\number_3\obj\Debug\number_3.Form1.resources
+c:\users\grisha\documents\visual studio 2015\Projects\number_3\number_3\obj\Debug\number_3.Properties.Resources.resources
+c:\users\grisha\documents\visual studio 2015\Projects\number_3\number_3\obj\Debug\number_3.csproj.GenerateResource.Cache
+c:\users\grisha\documents\visual studio 2015\Projects\number_3\number_3\obj\Debug\number_3.exe
+c:\users\grisha\documents\visual studio 2015\Projects\number_3\number_3\obj\Debug\number_3.pdb
